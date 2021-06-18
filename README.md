@@ -10,3 +10,5 @@ El equipo esta conformado por:
 - Miguel Alejandro Aguilar Aguilera
 - Angelica Lopez García
 - Emilia Abigail Hernandez Montoya
+
+### Fecha de inicio 15-Junio-2021 
